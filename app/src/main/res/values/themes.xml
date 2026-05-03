@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Freyja" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Основні кольори теми -->
+        <item name="colorPrimary">@color/freyja_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/freyja_green_light</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="colorTertiary">@color/freyja_green_dark</item>
+
+        <item name="android:statusBarColor">@color/freyja_green_dark</item>
+        <item name="android:navigationBarColor">@color/white</item>
+
+        <!-- щоб текст/іконки на статус-барі були читабельні -->
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+</resources>

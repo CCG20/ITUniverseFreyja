@@ -1,0 +1,10 @@
+<resources>
+    <!-- Основний зелений -->
+    <color name="freyja_green">#2E7D32</color>        <!-- dark green -->
+    <color name="freyja_green_light">#4CAF50</color>  <!-- green -->
+    <color name="freyja_green_dark">#1B5E20</color>   <!-- very dark green -->
+
+    <!-- Текст/фон -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
